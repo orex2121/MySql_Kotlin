@@ -1,4 +1,5 @@
 <?php  
+
  define('DB_HOST','localhost');
  define('DB_USERNAME','u254988_test2');
  define('DB_PASSWORD','test21984');
