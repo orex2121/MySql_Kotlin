@@ -1,4 +1,6 @@
 package ru.jandroid.mysql_kotlin
 
+import java.io.Serializable
+
 // Класс данных
-class Artist(val id: String, val name: String, val genre: String)
+class Artist(var id: String, var name: String, var genre: String)

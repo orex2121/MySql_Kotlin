@@ -3,6 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidApp/KOTLIN/MySql_Kotlin_RecyclerView/app/src/main/res/drawable/fon_corner.xml" value="0.3675" />
+        <entry key="..\:/AndroidApp/KOTLIN/MySql_Kotlin_RecyclerView/app/src/main/res/drawable/ic_add.xml" value="0.3525" />
+        <entry key="..\:/AndroidApp/KOTLIN/MySql_Kotlin_RecyclerView/app/src/main/res/drawable/ic_close.xml" value="0.3675" />
+        <entry key="..\:/AndroidApp/KOTLIN/MySql_Kotlin_RecyclerView/app/src/main/res/drawable/ic_corner.xml" value="0.3675" />
+        <entry key="..\:/AndroidApp/KOTLIN/MySql_Kotlin_RecyclerView/app/src/main/res/drawable/view_corner.xml" value="0.3525" />
+        <entry key="..\:/AndroidApp/KOTLIN/MySql_Kotlin_RecyclerView/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidApp/KOTLIN/MySql_Kotlin_RecyclerView/app/src/main/res/layout/activity_view_artists.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidApp/KOTLIN/MySql_Kotlin_RecyclerView/app/src/main/res/layout/artist_item.xml" value="0.28157894736842104" />
+        <entry key="..\:/AndroidApp/KOTLIN/MySql_Kotlin_RecyclerView/app/src/main/res/layout/custom_alert_dialog.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidApp/KOTLIN/MySql_Kotlin_bdtest2/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidApp/KOTLIN/MySql_Kotlin_bdtest2/app/src/main/res/layout/activity_view_artists.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidApp/KOTLIN/MySql_Kotlin_bdtest2/app/src/main/res/layout/layout_list_artist.xml" value="0.36666666666666664" />

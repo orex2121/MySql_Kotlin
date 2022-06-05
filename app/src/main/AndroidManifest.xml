@@ -13,9 +13,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MySql_Kotlin">
         <activity
-            android:name=".ViewArtistsActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
